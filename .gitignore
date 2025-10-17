@@ -1,0 +1,11 @@
+# Common ignores
+.DS_Store
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+.idea/
+.vscode/
